@@ -25,3 +25,12 @@
 #container a {
   text-decoration: none;
 }
+
+.round {
+  --width: 30px;
+  --height: 30px;
+  --border-radius: 30%;
+  --vertical-align: middle;
+  --padding-start: 5px;
+  --padding-end: 5px;
+}
